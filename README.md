@@ -957,7 +957,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
     - [ ] Learn these patterns:
         - [ ] strategy
         - [X] singleton
-        - [ ] adapter
+        - [X] adapter
         - [ ] prototype
         - [ ] decorator
         - [ ] visitor
